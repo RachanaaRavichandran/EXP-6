@@ -16,8 +16,18 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
 
+<img width="997" height="801" alt="Screenshot 2025-12-14 145923" src="https://github.com/user-attachments/assets/82f17240-ebf0-4c3b-8c7a-78e256990590" />
+
+<img width="860" height="695" alt="Screenshot 2025-12-14 145903" src="https://github.com/user-attachments/assets/6007aa1f-5186-4b41-b7b3-c982546d7e00" />
+
+<img width="383" height="691" alt="Screenshot 2025-12-14 150519" src="https://github.com/user-attachments/assets/fd4af443-4f59-44f4-9200-6e3ac6115ea2" />
+
+
+
+
 
 OBSERVATION TABLE
+![exp 6 BEEE tabulation](https://github.com/user-attachments/assets/4a83a984-6db2-474e-80ef-1ef5dba6df0d)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
